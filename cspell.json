@@ -1,0 +1,13 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "bgcolor",
+        "fgcolor",
+        "Itertools"
+    ],
+    "ignoreWords": [],
+    "import": []
+}
